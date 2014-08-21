@@ -14,7 +14,7 @@
 
 ## Un proyecto existente
 
-1. Genera un clone del proyecto que se encuentra en https://github.com/nmicht/practica-git-cucei-2014a
+1. Genera un clone del proyecto que se encuentra en https://github.com/nmicht/practica-git-cucei-2014b
 1. Dentro de la carpeta de tu sección (si no existe creala) crea un archivo con un programa "Hola mundo" en el lenguaje que quieras, el archivo debe tener como nombre tu código
 1. En el archivo "lista" agrega tu codigo y nombre completo al final del archivo
 1. Haz el commit que agregue tu hola mundo y la modificación del archivo
