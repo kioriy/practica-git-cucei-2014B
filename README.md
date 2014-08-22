@@ -21,5 +21,6 @@
 1. Jala los cambios que existen en el repositorio remoto
 1. Ve al archivo hola mundo de algun otro compañero y agrega un comentario con tu nombre
 1. Haz el commit con los cambios
+2. Empuja tus cambios al repositorio remoto
 
 Si te encuentras con conflictos deberás solucionarlos sin perder la información de tus otros compañeros
